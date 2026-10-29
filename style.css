@@ -1,0 +1,30 @@
+
+
+   Body{
+    background-color: #031c5b;
+    color: #ffffff;
+    font-family: system-ui,sans-serif;
+    margin:0;
+   }
+   .into{
+    text-align:center;
+    padding:60px 20px;
+   }
+   .interests{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+    padding:20px;
+   }
+   .cards{
+    background-color: #1e293b;
+    padding: 20px;
+    border-radius: 8px;
+    border: 5px solid#334155;
+    width: 250px;
+   }
+
+   body.light-mode{
+    background-color:#f4f4f4;
+    color:#12b0e4
+   }
